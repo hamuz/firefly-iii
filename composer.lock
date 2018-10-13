@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a15b5b4991745824880345223530fa9e",
+    "content-hash": "ec4b03fdb01db66d2ecdafbb3e6ed378",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -1022,16 +1022,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.7.8",
+            "version": "v5.7.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "763b64a43ebb6042e463aab4214d4cc9722147be"
+                "reference": "172f69f86bb86e107fb9fafff293b4b01291cf05"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/763b64a43ebb6042e463aab4214d4cc9722147be",
-                "reference": "763b64a43ebb6042e463aab4214d4cc9722147be",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/172f69f86bb86e107fb9fafff293b4b01291cf05",
+                "reference": "172f69f86bb86e107fb9fafff293b4b01291cf05",
                 "shasum": ""
             },
             "require": {
@@ -1160,7 +1160,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2018-10-04T14:47:20+00:00"
+            "time": "2018-10-09T13:28:28+00:00"
         },
         {
             "name": "laravel/passport",
@@ -5660,7 +5660,7 @@
                 "laravel/socialite": ">=1,<1.0.99|>=2,<2.0.10",
                 "magento/magento1ce": "<1.9.3.9",
                 "magento/magento1ee": ">=1.9,<1.14.3.2",
-                "magento/product-community-edition": ">=2,<2.2.5",
+                "magento/product-community-edition": ">=2,<2.2.6",
                 "monolog/monolog": ">=1.8,<1.12",
                 "namshi/jose": "<2.2",
                 "onelogin/php-saml": "<2.10.4",
@@ -5775,7 +5775,7 @@
                 }
             ],
             "description": "Prevents installation of composer packages with known security vulnerabilities: no API, simply require it",
-            "time": "2018-10-05T18:14:02+00:00"
+            "time": "2018-10-12T22:19:58+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
